@@ -1,4 +1,3 @@
-# guess-the-number-game
 # Number Guessing Game
 
 ## Description:
@@ -18,5 +17,5 @@ This project, "Number Guessing Game" is an interactive web application where use
 *	GSAP for animations.
 *	SweetAlert2 for enhanced user alerts.
 
-## Link:
+## Link to the app:
 https://guess-the-number-gamee.glitch.me/
