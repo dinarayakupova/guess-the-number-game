@@ -12,9 +12,11 @@ This project, "Number Guessing Game" is an interactive web application where use
 * Event Handling: Enhanced understanding of JavaScript event handling by responding to user actions such as button clicks and key presses.
 
 ## Technologies Used:
-•	HTML for the structural foundation of the application.
-•	CSS for styling and animations.
-•	JavaScript for game logic and DOM manipulation.
-•	GSAP for animations.
-•	SweetAlert2 for enhanced user alerts.
+*	HTML for the structural foundation of the application.
+*	CSS for styling and animations.
+*	JavaScript for game logic and DOM manipulation.
+*	GSAP for animations.
+*	SweetAlert2 for enhanced user alerts.
 
+## Link:
+https://guess-the-number-gamee.glitch.me/
